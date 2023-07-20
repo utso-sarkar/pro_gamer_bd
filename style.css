@@ -116,3 +116,85 @@ background-clip: text;
     padding-top: 20px;
     gap: 20px;
 }
+/* section_2 */
+.main-section-2{
+    display: flex;
+    padding-top: 30px;
+}
+.gamer{
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+font-size: 48px;
+
+font-weight: 700;
+
+}
+.simple-pragraph{
+    color: #534C64;
+}
+.purpose{
+    color: #534C64;
+text-align: right;
+
+font-size: 24px;
+
+font-weight: 500;
+line-height: 45px; /* 187.5% */
+}
+.main-section-2{
+   
+    background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+}
+.img-3-section{
+   display: grid;
+   grid-template-rows: 4frs;
+   display: flex;
+   gap: 20px 20px 20px 20px;
+   justify-content: space-between;
+   white-space: 20px;
+   
+}
+.txt-3{
+    display: flex;
+    s
+    
+}
+.main-section-3{
+    padding-right: 60px;
+    padding-left: 60px;
+   
+}
+.funny{
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+font-size: 48px;
+
+font-weight: 700;
+
+}
+.txt-san{
+    padding-left: 380px;
+}
+.online{
+    color: #0B0223;
+
+font-size: 48px;
+
+font-weight: 700;
+text-align: center;
+}
+.pages{
+    color: #534C64;
+text-align: center;
+font-family: Work Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
