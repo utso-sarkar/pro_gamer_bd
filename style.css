@@ -236,6 +236,7 @@ background-clip: text;
     /* padding-left: 720px;
     padding-right: 80px; */
     margin-bottom: 20px;
+    align-items: center;
 }
 .footer-img{
     padding-left: 500px;
@@ -255,19 +256,39 @@ text-align: center;
 
 font-size: 18px;
 
-font-weight: 600;
+font-weight: 300;
 
 }
 .font-aws{
-   padding-left: 420px;
-   gap:30px;
+    gap: 90px;
+    display: flex;
+    padding-left: 600px;
+    width: 40px;
+    height: 40px;
 }
-.fa-brands fa-twitter{
-    margin-left: 5px;
+.last{
+    padding-left: 500px;
+    display:flex;
+    color:#ffff;
+    gap:20px;
+    color: rgba(255, 255, 255, 0.60);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-top: 50px;
+  
+   
 }
-.fa-brands fa-facebook{
-    gap:30px;
-    margin-left: 5PX;
-    white-space: 30px;
+.end{
+    color: rgba(255, 255, 255, 0.60);
+text-align: center;
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+padding-bottom: 100px;
 }
-
