@@ -1,20 +1,27 @@
-main{
-    margin: o auto;
-}
+/* google fonts */
 *{
     font-family: 'Lato', sans-serif;
 font-family: 'Work Sans', sans-serif;
 }
+
 /* header section */
 .navsection{
     display: flex;
+    margin-left: 70px;
+    margin-top: 30px;
+    
+    
     
 }
 .header-image{
     width: 86.041px;
     height: 40px;
+    padding-right: 20px;
 }
 .g-bio{
+    color:  #FF42A5;
+    font-size: 45px;
+    font-weight: 700;
 
 }
 .amer{
@@ -22,4 +29,32 @@ font-family: 'Work Sans', sans-serif;
     font-weight: 700;
     font-size: 45px;
 
+}
+.logo-txt{
+    margin-top: auto;
+   
+}
+.about-section{
+   padding-left: 380px;
+   gap: 150px;
+    
+}
+.h-section{
+    display: flex;
+    gap: 80px;
+    
+}
+ul li{
+    list-style-type: none;
+}
+.link-button{
+    width: 262px;
+    height: 56px;
+    border-radius: 8px;
+    gap: 20px;
+    
+    background: rgba(11, 2, 35, 0.10);
+}
+.dev-gap{
+    padding-right: 60px;
 }
