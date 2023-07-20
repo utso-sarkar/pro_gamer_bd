@@ -1,0 +1,25 @@
+main{
+    margin: o auto;
+}
+*{
+    font-family: 'Lato', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+/* header section */
+.navsection{
+    display: flex;
+    
+}
+.header-image{
+    width: 86.041px;
+    height: 40px;
+}
+.g-bio{
+
+}
+.amer{
+    color: #0B0223;
+    font-weight: 700;
+    font-size: 45px;
+
+}
