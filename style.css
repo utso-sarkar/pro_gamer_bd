@@ -237,12 +237,21 @@ background-clip: text;
     padding-right: 80px; */
     margin-bottom: 20px;
     align-items: center;
+    text-align: center;
+font-family: Work Sans;
+font-size: 45px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
 }
-.footer-img{
+/* .footer-img{
     padding-left: 500px;
     padding-top:90px;
+    
     align-items: center;
-}
+    width: 86.041px;
+height: 40px; */
+
 .link{
     color:#ffff;
     display: flex;
@@ -257,6 +266,11 @@ text-align: center;
 font-size: 18px;
 
 font-weight: 300;
+
+}
+.footer-class{
+    width: 80px;
+height: 40px;
 
 }
 .font-aws{
@@ -291,4 +305,9 @@ font-style: normal;
 font-weight: 500;
 line-height: normal;
 padding-bottom: 100px;
+}
+.ok{
+    display: flex;
+    padding-left: 650px;
+    padding-top: 50px;
 }
