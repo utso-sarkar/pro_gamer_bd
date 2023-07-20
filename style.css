@@ -9,6 +9,7 @@ font-family: 'Work Sans', sans-serif;
     display: flex;
     margin-left: 70px;
     margin-top: 30px;
+    background-color:#ffff;
     
     
     
@@ -57,4 +58,61 @@ ul li{
 }
 .dev-gap{
     padding-right: 60px;
+}
+.root-text{
+    color: #0B0223;
+   
+    font-family: Work Sans;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+    padding-top: 100px;
+    
+   
+    
+}
+.goat{
+   
+
+font-size: 95px;
+
+font-weight: 800;
+background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.btn-1{
+    background-color: #FF42A5;
+    height: 30px;
+    width: 120px;
+    border-radius: 30px;
+    color:#ffff;
+    border:0;
+}
+.btn-2 {
+    background: #4EC5F7;
+    height: 30px;
+    width: 120px;
+    border-radius: 30px;
+    color: #ffff;
+    border:0px;
+}
+.main-class{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+    
+    justify-content: space-between;
+    margin-right: 60px;
+    margin-left: 80px;
+}
+.section-main-txt{
+    justify-content: center;
+}
+.btn-add{
+    padding-top: 20px;
+    gap: 10px;
 }
